@@ -2,7 +2,7 @@
 
 int main() {
   
-    printf("ola");
-
-    return 0;
+  int var =0;
+  printf("%d",var);
+  scanf("%d",&var);
 }
